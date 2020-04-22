@@ -26,6 +26,7 @@ import cv2
 
 img = cv2.imread('/home/saba/Pictures/Saba.jpg')  #reads an image
 
+
 cv2.imshow('image',img)                           #shows an image
 
 cv2.waitKey(0)
