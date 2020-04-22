@@ -19,7 +19,9 @@ First argument is name of the window that is displayed when image is shown in.
 Second argument is the image to be shown in the window.
 
 #Example
+
 import numpy as np
+
 import cv2
 
 img = cv2.imread('/home/saba/Pictures/Saba.jpg')  #reads an image
